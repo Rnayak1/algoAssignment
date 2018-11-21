@@ -193,7 +193,7 @@ Global variables
 	--------------------------------------
  
 	**********
-	Pseudocode
+	Pseudocode 
 	**********
 
 	countknown(n, person_x)
