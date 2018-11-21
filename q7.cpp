@@ -235,5 +235,5 @@ Therefore, total time complexity is O(n^2).
 Time complexity:	O(n^2)
 
 --------------------------------------------------
-Member 1 = Rohit Nayk
+Member 1 = Rohit Nayak
 */
